@@ -107,7 +107,7 @@ export default function Footer() {
         {/* Payment Options */}
         <div className="mt-12 border-t border-border pt-8 flex flex-col items-center space-y-4">
           <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()}SPARK CABANA LLC. All Rights Reserved.
+            © {new Date().getFullYear()} SPARK CABANA LLC. All Rights Reserved.
           </p>
 
           <div className="flex space-x-6">
